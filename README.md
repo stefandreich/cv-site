@@ -1,2 +1,2 @@
-# cv-site
+# a simple cv-site
 
